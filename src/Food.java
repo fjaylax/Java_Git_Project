@@ -1,5 +1,7 @@
 public class Food {
 
-    // adding new Class Food
+
     //adding 2 lines
+
+    //adding line 3 and deleting line 1
 }
