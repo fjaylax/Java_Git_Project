@@ -5,4 +5,6 @@ public class LanceInfo1 {
     // Added info
 
     // Updated info
+
+    // Completed
 }
